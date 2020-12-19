@@ -1,2 +1,2 @@
 # SoftUni
-This is where i uplode my homework, exams, and cours projects
+This is where i upload my homework, exams, and course projects
