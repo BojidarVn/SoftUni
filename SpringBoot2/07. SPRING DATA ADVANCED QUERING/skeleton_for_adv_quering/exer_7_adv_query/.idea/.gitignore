@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Bobi\softuni\Spring Data\07. SPRING DATA ADVANCED QUERING\skeleton_for_adv_quering\exer_7_adv_query\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

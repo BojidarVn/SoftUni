@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sale>
+    <sale>
+        <car make="BMW" model="M6 E63" travelled-distance="2147"/>
+        <customer-name>Hai Everton</customer-name>
+        <discount>0.05</discount>
+        <price>1745.99</price>
+        <price-with-discount>1658.6905</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Chevy" model="Malibu" travelled-distance="922337775807"/>
+        <customer-name>Rico Peer</customer-name>
+        <discount>0.1</discount>
+        <price>244.97000000000003</price>
+        <price-with-discount>220.473</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Nissan" model="Versa" travelled-distance="9223775807"/>
+        <customer-name>Nisha Markwell</customer-name>
+        <discount>0.3</discount>
+        <price>456.32</price>
+        <price-with-discount>319.424</price-with-discount>
+    </sale>
+</sale>

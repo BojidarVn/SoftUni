@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/exercises/minions_db.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/Homework.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql/diablo_database.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql/soft_uni_database.sql" dialect="MySQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/src/Homework.java" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;cffdbf68-2428-47a5-a500-911dc251ccc8&quot;    },    &quot;group&quot;:{     &quot;@kind&quot;:&quot;schema&quot;,     &quot;node&quot;:{      &quot;name&quot;:{       &quot;@qname&quot;:&quot;minions_db&quot;      }     }    }   }  } }}" />
+  </component>
+</project>
