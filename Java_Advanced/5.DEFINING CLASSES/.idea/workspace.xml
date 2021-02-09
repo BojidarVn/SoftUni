@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9a7acab-8b70-4bc1-8e89-511349dbd4fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dH0yBAeyNge0AQ47t0kLvTd1Pr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Pokemon_trainer__EXERCISE_tirth_try" />
+      <recent name="Company_Roster__EXERCISE__2_IItry" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Speed_Racing__EXERCISE_3.Main" />
+      <module name="05. Defining classses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Speed_Racing__EXERCISE_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pokemon_Trainer__EXERCISE__6_second_try.Main" />
+      <module name="05. Defining classses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pokemon_Trainer__EXERCISE__6_second_try.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pokemon_trainer__EXERCISE_tirth_try.Main" />
+      <module name="05. Defining classses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pokemon_trainer__EXERCISE_tirth_try.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Company_Roster__EXERCISE__2_IItry.Main" />
+      <module name="05. Defining classses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Company_Roster__EXERCISE__2_IItry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pokemon_Trainer__EXERCISE__6.Main" />
+      <module name="05. Defining classses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pokemon_Trainer__EXERCISE__6.Pokemon" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="05. Defining classses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9a7acab-8b70-4bc1-8e89-511349dbd4fc" name="Default Changelist" comment="" />
+      <created>1592066963203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592066963203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" width="460" height="552" key="#com.intellij.ide.util.MemberChooser" timestamp="1592417292334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" width="460" height="552" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592417292334" />
+    <state x="714" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592336904064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592336904064" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592119717737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592119717737" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1592311062106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592311062106" />
+    <state width="1877" height="313" key="GridCell.Tab.0.bottom" timestamp="1592418518636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592418518636" />
+    <state width="1877" height="313" key="GridCell.Tab.0.center" timestamp="1592418518635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592418518635" />
+    <state width="1877" height="313" key="GridCell.Tab.0.left" timestamp="1592418518635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592418518635" />
+    <state width="1877" height="313" key="GridCell.Tab.0.right" timestamp="1592418518636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592418518636" />
+    <state width="1877" height="313" key="GridCell.Tab.1.bottom" timestamp="1592418518636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592418518636" />
+    <state width="1877" height="313" key="GridCell.Tab.1.center" timestamp="1592418518636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592418518636" />
+    <state width="1877" height="313" key="GridCell.Tab.1.left" timestamp="1592418518636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592418518636" />
+    <state width="1877" height="313" key="GridCell.Tab.1.right" timestamp="1592418518636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592418518636" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592117756509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592117756509" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592637538975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592637538975" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1592418500931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1592418500931" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2" timestamp="1592418500931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1592418500931" />
+    <state x="690" y="275" key="extract.method.dialog" timestamp="1592118100816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592118100816" />
+    <state x="828" y="416" key="save.project.as.template.dialog" timestamp="1592408981738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="416" key="save.project.as.template.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592408981738" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592158888512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592158888512" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Opinion_Poll/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Company_Roster__EXERCISE__2/Main.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pokemon_Trainer__EXERCISE__6/Trainer.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pokemon_Trainer__EXERCISE__6_second_try/Main.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pokemon_Trainer__EXERCISE__6/Main.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
